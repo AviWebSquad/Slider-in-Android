@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Avinash Web</string>
+
+    <!-- Slide 1 Title and Description-->
+    <string name="slide_1_title">Bus Ticket</string>
+    <string name="slide_1_desc">Explore the most attarctive deal in bus ticket booking</string>
+    <!-- Slide 2 Title and Description-->
+    <string name="slide_2_title">Flight Ticket</string>
+    <string name="slide_2_desc">Explore the most attarctive deal in Flight ticket booking</string>
+    <!-- Slide 3 Title and Description-->
+    <string name="slide_3_title">Trian Ticket</string>
+    <string name="slide_3_desc">Explore the most attarctive deal in Train ticket booking</string>
+    <!-- Slide 4 Title and Description-->
+    <string name="slide_4_title">Movie Ticket</string>
+    <string name="slide_4_desc">Explore the most attarctive deal in Movie ticket booking</string>
+
+
+    <string name="my_preference">com.abc.com.MyPref</string>
+    <string name="my_preference_key">com.abc.com.MyPrefKey</string>
+
+</resources>
